@@ -1,0 +1,43 @@
+body
+
+{
+	background: #82D7CA;
+}
+
+#galeria{
+    border: 2px solid #82D7CA;
+    border-radius: 15px;
+    padding: 10px;
+    background: gray;
+    width: 1000px;
+    margin: 0px auto;
+    text-align: center;
+}
+
+#imagengrande{
+
+	border: 2px solid # 000;
+	border-radius: 15px;
+	width: 1000;
+	height: 600;
+
+}
+
+#galechiqui{
+
+	display: table;
+	margin: 0 auto;
+
+}
+
+.peque {
+
+width: 60px;
+height: 60px;
+ border-radius: 15px;
+ float: left;
+ cursor:pointer;
+ padding: 10px;
+ margin: 10px 5px;
+
+}
